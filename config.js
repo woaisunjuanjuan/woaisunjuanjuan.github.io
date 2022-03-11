@@ -5,7 +5,7 @@ var config = {
         "",
         "Do not go gentle into that good night",
         "Old age should burn and rave at close of day",
-        "Rage, rage against the dying of the light",
+        "Rage, rage against the dying of the light 老婆我爱你",
         "This is Jiekun Liu's website",
         "in memorying of our dying yesterday",
     ],
@@ -15,7 +15,7 @@ var config = {
     //      温馨警告:
     //          1.时分秒都必须是俩个数字  比如 00:00:00
     //          2.T不能丢了
-    date: "2022-02-13T20:34:00",
+    date: "2022-03-11T07:34:00",
     // 双方的名字
-    names: ["刘界锟", "王斯佳"]
+    names: ["刘界锟", "徐慧娴"]
 }
